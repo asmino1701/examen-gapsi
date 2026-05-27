@@ -131,6 +131,7 @@ Expone una API simple (`addToCart`, `removeFromCart`, `resetCart`, `isInCart`) q
 ---
 
 ## Estructura del proyecto
+```
 examen-gapsi/
 ├── public/
 │   └── gapsi-logo.svg              # Logo de la marca
@@ -161,7 +162,7 @@ examen-gapsi/
 ├── vite.config.ts                  # Config Vite + plugin de ofuscación
 ├── tsconfig.json
 └── README.md
-
+```
 ---
 
 ## Decisiones técnicas

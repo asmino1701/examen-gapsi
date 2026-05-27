@@ -1,0 +1,20 @@
+{
+  "name": "e-Commerce Gapsi",
+  "short_name": "Gapsi",
+  "description": "Buscador de productos Walmart con carrito drag & drop",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7fa",
+  "theme_color": "#005db9",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/logoBlanco.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

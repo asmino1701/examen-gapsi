@@ -72,7 +72,7 @@ VITE_API_BASE_URL=https://axesso-walmart-data-service.p.rapidapi.com
 
 ---
 
-## ▶Ejecución en desarrollo
+## Ejecución en desarrollo
 
 ```bash
 npm run dev

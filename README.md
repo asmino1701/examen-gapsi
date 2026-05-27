@@ -142,11 +142,11 @@ examen-gapsi/
 │   │   └── product.ts              # Modelo de dominio Product
 │   ├── services/
 │   │   ├── httpClient.ts           # Cliente HTTP fino sobre fetch
-│   │   └── walmartAdapter.ts       # ⭐ PATRÓN ADAPTER
+│   │   └── walmartAdapter.ts       # PATRÓN ADAPTER
 │   ├── hooks/
 │   │   ├── useProductSearch.ts     # useInfiniteQuery + dedup por id
 │   │   ├── useDebounce.ts          # Debounce genérico
-│   │   └── useCart.ts              # ⭐ PATRÓN FACADE
+│   │   └── useCart.ts              # PATRÓN FACADE
 │   ├── context/
 │   │   └── CartContext.tsx         # Provider + reducer puro
 │   ├── components/
